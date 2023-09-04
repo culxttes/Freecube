@@ -1,0 +1,8 @@
+load: startup
+name: Freecube
+version: '${version}'
+main: com.sagbot.freecube.Freecube
+commands:
+  fc:
+    usage: /<command>
+    description: idk.
